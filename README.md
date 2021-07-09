@@ -6,6 +6,7 @@
 <ul>
 <li>ReactJS</li>
 <li>NextJS</li>
+<li>TypeScript</li>
 <li>React Hooks</li>
 <li>React Context</li>
 <li>CSS</li>
